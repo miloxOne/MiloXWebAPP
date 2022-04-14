@@ -4,7 +4,7 @@ Utilizes the Expo-CLI and React Native as a wrapper for web applications.
 
 **Tutorial:** https://forum.hollaex.com/t/tutorial-creating-a-web-app-for-your-hollaex-exchange-android-ios/890
 
-If you believe that this repo helped with your exchange, donations of any amount are greatly appreciated:        
+If you believe that this repo helped with your exchange, donations of any amount is greatly appreciated:        
 
 **XRP Wallet: rHaat8whe1thE8AbYcxsdRujwWRkjXDJg5**
 
