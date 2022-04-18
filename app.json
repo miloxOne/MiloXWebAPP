@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ByteX",
-    "slug": "ByteX",
-    "version": "1.0.0",
+    "name": "MiloX",
+    "slug": "MiloX",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
